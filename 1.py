@@ -1,7 +1,7 @@
 """
 Created on Wed Jul 15 01:43:07 2020
 
-@author: trendydice
+@author: jhhalls
 """
 # Write a Python program to print the following 
 #string in a specific format
