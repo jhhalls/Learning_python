@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jul 15 01:55:31 2020
 
-@author: trendydice
+@author: jhhalls
 """
 
 # Write a Python program to get the Python version you are using.
