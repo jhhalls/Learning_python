@@ -3,7 +3,7 @@
 """
 Created on Wed Jul 15 02:03:30 2020
 
-@author: trendydice
+@author: jhhalls
 """
 
 #Write a Python program which accepts the radius of a circle 
