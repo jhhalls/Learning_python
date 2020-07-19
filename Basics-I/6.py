@@ -3,7 +3,7 @@
 """
 Created on Wed Jul 15 02:11:30 2020
 
-@author: trendydice
+@author: jhhalls
 """
 # =============================================================================
 # Write a Python program which accepts a sequence of comma-separated numbers 
