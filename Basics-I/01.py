@@ -1,5 +1,4 @@
 """
-Created on Wed Jul 15 01:43:07 2020
 
 @author: jhhalls
 """
