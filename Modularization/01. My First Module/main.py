@@ -1,8 +1,10 @@
-# import the enttire module
+# author : @jhhalls
+
+# import the entire module
 import module
 
-# import specific fucntion or classes
-from module import add,Greeter
+# import specific function or classes
+from module import add, Greeter
 
 # use the functions
 result_add = module.add(2,4)
