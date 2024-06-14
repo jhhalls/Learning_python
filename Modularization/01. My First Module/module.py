@@ -1,4 +1,4 @@
-# mymodule.py
+# author : @jhhalls
 
 def add(a, b):
     """Return the sum of two numbers."""
