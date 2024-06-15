@@ -1,3 +1,5 @@
+# author : @jhhalls
+
 def multiply(a,b):
 	"""" Returns the multiplication of the inputs"""
 	return a*b
